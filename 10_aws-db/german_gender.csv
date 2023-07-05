@@ -1,0 +1,223 @@
+﻿index,gender_singular,remark,plural_form,translation,number,gender_short
+1,das Thema,words that end in -MA are always NEUTER,Themen ,topic,1,N
+2,das Häuschen,words that end in -CHEN are always NEUTER,Häuschen ,small house / cottage,2,N
+3,das Dokument,words that end in -MENT are always NEUTER,Dokumente ,document,3,N
+4,das Zentrum,words that end in -UM are always NEUTER,Zentren ,center,4,N
+5,das Gesicht,words that end in -ICHT are always NEUTER,Gesichter ,face,5,N
+6,das Ergibnis,words that end in -NIS are always NEUTER,Ergebnisse,result,6,N
+7,das Bureau,words that end in -EAU are always NEUTER,,,7,N
+8,das Training,words that end in -ING are always NEUTER,,,8,N
+9,das Photo,words that end in -O are always NEUTER,Fotos,Photo,9,N
+10,das Essen,NOUNS that come from Verbs,Essen,Food,10,N
+11,das Ritz,"Nouns that name hotels,cafés",Ritze,Notch,11,N
+12,das Blau,Nouns that name colors,Blaus,Blue,12,N
+13,das A,Nouns that name letters,As,A,13,N
+14,der Montag,Days of the weeks are always MASCULINE,Montage,Monday,14,M
+15,der Juli,MONTHS are always MASCULINE,Julis,July,15,M
+16,der Sommer,SEASONS are always MASCULINE,Sommer,Summer,16,M
+17,der Euro,,Euros,Euro,17,M
+18,der Wein,,Weine,Wine,18,M
+19,der Mercedes,,Mercedes,Mercedes,19,M
+20,der Regen,,Regen,Rain,20,M
+21,der Süd,,Süden,South,21,M
+22,der Rentner,ner,Rentner,Retiree,22,M
+23,der Siedler,ler ,Siedler,Settler,23,M
+24,der Kommunismus,ismus ,Kommunismen,Communism,24,M
+25,der Motor,or,Motoren,Motor,25,M
+26,der Honig,ig,,,26,M
+27,der Teppich,ich,,,27,M
+28,der Zwilling,ing,,,28,M
+29,der Kapitalist,ist,,,29,M
+30,der Informatiker,iker,,,30,M
+31,der Verstand,and,,,31,M
+32,der Migrant,ant,,,32,M
+33,der Student,ent,,,33,M
+34,der Friseur,eur,,,34,M
+35,der Koffer,er,,,35,M
+36,,heit,,,36,F
+37,,keit,,,37,F
+38,,tät,,,38,F
+39,,ung,,,39,F
+40,,schaft ,,,40,F
+41,,ie,,,41,F
+42,,ik ,,,42,F
+43,,ur,,,43,F
+44,das Wrack,,Wracks,Wreck,44,N
+45,das Benehmen,,,Behavior,45,N
+46,das Maß,,Maße,Measure,46,N
+47,das Mehl,,Mehle,Flour,47,N
+48,das Hirn,,Hirne,Brain,48,N
+49,das Fach,,Fächer,Compartment / Subject,49,N
+50,das Dach,,Dächer,Roof,50,N
+51,das Gebüsch,,Gebüsche,Bush,51,N
+52,das Gesetz,,Gesetze,Law,52,N
+53,das Verfahren,,Verfahren,Procedure,53,N
+54,das Geschenk,,Geschenke,Gift,54,N
+55,das Grab,,Gräber,Grave,55,N
+56,das Öl,,Öle,Oil,56,N
+57,das Lokal,,Lokale,Restaurant / Pub,57,N
+58,das Urteil,,Urteile,Judgment,58,N
+59,das Gewehr,,Gewehre,Rifle,59,N
+60,das Gleis,,Gleise,Track,60,N
+61,das Ziel,,Ziele,Goal / Target,61,N
+62,das Viertel,,Viertel,Quarter,62,N
+63,das Geschick,,Geschicke,Skill / Dexterity,63,N
+64,das Kinn,,Kinne,Chin,64,N
+65,das Eis,,Eise,Ice / Ice Cream,65,N
+66,das Gelenk,,Gelenke,Joint,66,N
+67,das Loch,,Löcher,Hole,67,N
+68,das Rad,,Räder,Wheel,68,N
+69,das Versteck,,Verstecke,Hiding place,69,N
+70,das Siegel,,Siegel,Seal,70,N
+71,das Feld,,Felder,Field,71,N
+72,das Rätsel,,Rätsel,Puzzle / Riddle,72,N
+73,das Schicksal,,Schicksale,Fate / Destiny,73,N
+74,das Gegenteil,,Gegenteile,Opposite,74,N
+75,das Getränk,,Getränke,Beverage / Drink,75,N
+76,das Beil,,Beile,Axe,76,N
+77,das Holz,,Hölzer,Wood,77,N
+78,das Stück,,Stücke,Piece,78,N
+79,das Gefühl,,Gefühle,Feeling,79,N
+80,das Haus,,Häuser,House,80,N
+81,das Geld,,Gelder,Money,81,N
+82,das Bild,,Bilder,Picture / Image,82,N
+83,das Schild,,Schilder,Sign,83,N
+84,das Land,,Länder,Country / Land,84,N
+85,das Spiel,,Spiele,Game,85,N
+86,das Werk,,Werke,Work,86,N
+87,das Mittel,,Mittel,Means,87,N
+88,das Tuch,,Tücher,Cloth,88,N
+89,das Glied,,Glieder,Limb,89,N
+90,das Leid,,Leiden,Suffering,90,N
+91,das Jahr,,Jahre,Year,91,N
+92,das Reich ,,Reiche,Empire / Kingdom,92,N
+93,das Zeug,,Zeuge,Stuff / Things,93,N
+94,das Mal,,Male,Time / Occasion,94,N
+95,das Buch,,Bücher,Book,95,N
+96,das Handy,,Handys,Mobile phone,96,N
+97,das Telefon,,Telefone,Telephone,97,N
+98,das Haar,,Haare,Hair,98,N
+99,das Paar,,Paare,Pair / Couple,99,N
+100,das Laub,,Laube,Foliage / Leaves,100,N
+101,das Ohr,,Ohren,Ear,101,N
+102,das Ding,,Dinge,Thing,102,N
+103,das Wohl,,Wohle,Well-being,103,N
+104,das Pech,,Pech,Bad luck,104,N
+105,das Hemd,,Hemden,Shirt,105,N
+106,das Kreuz,,Kreuze,Cross,106,N
+107,das Protokoll,,Protokolle,Protocol,107,N
+108,das Geräusch,,Geräusche,Noise,108,N
+109,das Gespräch,,Gespräche,Conversation,109,N
+110,das Glas,,Gläser,Glass,110,N
+111,das Gepäck,,Gepäcke,Luggage,111,N
+112,das Detail,,Details,Detail,112,N
+113,das Glück,,Glücke,Luck,113,N
+114,das Fleisch,,Fleische,Meat,114,N
+115,das Indiz,,Indizien,Indication,115,N
+116,das Bad,,Bäder,Bath,116,N
+117,das Kleid,,Kleider,Dress,117,N
+118,das Lied,,Lieder,Song,118,N
+119,das Gewühl,,Gewühle,Commotion,119,N
+120,das Hotel,,Hotels,Hotel,120,N
+121,das Herz,,Herzen,Heart,121,N
+122,das Netz,,Netze,Net,122,N
+123,das Seil,,Seile,Rope,123,N
+124,das Salz,,Salze,Salt,124,N
+125,das Ei,,Eier,Egg,125,N
+126,das Formular ,,Formulare,Form,126,N
+127,das Lager ,,Lager,Camp,127,N
+128,das Vokabular ,,Vokabulare,Vocabulary,128,N
+129,das Sofa,,Sofas,Sofa,129,N
+130,das Programm,,Programme,Program,130,N
+131,das Chaos ,,Chaos,Chaos,131,N
+132,das Gebirge,Word ends in E and NEUTER,Gebirge,Mountain range,132,N
+133,das Café,Word ends in E and NEUTER,Cafés,Café,133,N
+134,das Portmonee,Word ends in E and NEUTER,Portmonees,Wallet,134,N
+135,das Puzzle,Word ends in E and NEUTER,Puzzles,Puzzle,135,N
+136,das Ende,Word ends in E and NEUTER,Enden,End,136,N
+137,das Böse,Word ends in E and NEUTER,Böse,Evil,137,N
+138,das Auge,Word ends in E and NEUTER,Augen,Eye,138,N
+139,das Äußere,Word ends in E and NEUTER,Äußere,Appearance,139,N
+140,das Brot,Word ends in T and NEUTER,Brote,Bread,140,N
+141,das Rezept,Word ends in T and NEUTER,Rezepte,Recipe,141,N
+142,das Internet,Word ends in T and NEUTER,Internet,Internet,142,N
+143,das Produkt,Word ends in T and NEUTER,Produkte,Product,143,N
+144,das Licht,Word ends in T and NEUTER,Lichter,Light,144,N
+145,das Obst,Word ends in T and NEUTER,Obst,Fruit,145,N
+146,das Ticket,Word ends in T and NEUTER,Tickets,Ticket,146,N
+147,das Nest,Word ends in T and NEUTER,Nester,Nest,147,N
+148,das Kraut,Word ends in T and NEUTER,Kräuter,Herb,148,N
+149,das Bett,Word ends in T and NEUTER,Betten,Bed,149,N
+150,das Gift,Word ends in T and NEUTER,Gifte,Poison,150,N
+151,das Wort,Word ends in T and NEUTER,Wörter,Word,151,N
+152,das Gewicht,Word ends in T and NEUTER,Gewichte,Weight,152,N
+153,das Gebot,Word ends in T and NEUTER,Gebote,Command,153,N
+154,das Gehalt,Word ends in T and NEUTER,Gehälter,Salary,154,N
+155,das Gedicht,Word ends in T and NEUTER,Gedichte,Poem,155,N
+156,das Delikt,Word ends in T and NEUTER,Delikte,Offense,156,N
+157,das Gebiet,Word ends in T and NEUTER,Gebiete,Area / Territory,157,N
+158,das Jahrhundert,Word ends in T and NEUTER,Jahrhunderte,Century,158,N
+159,das Gerücht,Word ends in T and NEUTER,Gerüchte,Rumor,159,N
+160,das Gespenst,Word ends in T and NEUTER,Gespenster,Ghost,160,N
+161,das Geschlecht,Word ends in T and NEUTER,Geschlechter,Gender,161,N
+162,das Gebet,Word ends in T and NEUTER,Gebete,Prayer,162,N
+163,das Blut,Word ends in T and NEUTER,Blute,Blood,163,N
+164,das Gesicht,Word ends in T and NEUTER,Gesichter,Face,164,N
+165,das Gericht,Word ends in T and NEUTER,Gerichte,Court,165,N
+166,das Heft,Word ends in T and NEUTER,Hefte,Exercise book,166,N
+167,das Zelt,Word ends in T and NEUTER,Zelte,Tent,167,N
+168,das Geschäft,Word ends in T and NEUTER,Geschäfte,Shop / Store,168,N
+169,das Blatt,Word ends in T and NEUTER,Blätter,Leaf,169,N
+170,das Monster,Word ends in ER and NEUTER,Monster,Monster,170,N
+171,das Fieber,Word ends in ER and NEUTER,Fieber,Fever,171,N
+172,das Theater,Word ends in ER and NEUTER,Theater,Theater,172,N
+173,das Wasser,Word ends in ER and NEUTER,Wasser,Water,173,N
+174,das Meer,Word ends in ER and NEUTER,Meere,Sea,174,N
+175,das Leder,Word ends in ER and NEUTER,Leder,Leather,175,N
+176,das Opfer ,Word ends in ER and NEUTER,Opfer,Sacrifice,176,N
+177,das Wunder,Word ends in ER and NEUTER,Wunder,Miracle,177,N
+178,das Wetter,Word ends in ER and NEUTER,Wetter,Weather,178,N
+179,das Feuer,Word ends in ER and NEUTER,Feuer,Fire,179,N
+180,das Zimmer,Word ends in ER and NEUTER,Zimmer,Room,180,N
+181,das Papier,Word ends in ER and NEUTER,Papiere,Paper,181,N
+182,das Muster,Word ends in ER and NEUTER,Muster,Pattern,182,N
+183,das Fenster,Word ends in ER and NEUTER,Fenster,Window,183,N
+184,das Gewitter,Word ends in ER and NEUTER,Gewitter,Thunderstorm,184,N
+185,das Ufer,Word ends in ER and NEUTER,Ufer,Shore / Bank,185,N
+186,das Steuer,Word ends in ER and NEUTER,Steuer,Steering / Tax,186,N
+187,das Messer,Word ends in ER and NEUTER,Messer,Knife,187,N
+188,das Abenteuer ,Word ends in ER and NEUTER,Abenteuer,Adventure,188,N
+189,das Becken,Word ends in EN and NEUTER,Becken,Basin,189,N
+190,das Eisen,Word ends in EN and NEUTER,Eisen,Iron,190,N
+191,das Zeichen,Word ends in EN and NEUTER,Zeichen,Sign,191,N
+192,das Unternehmen,Word ends in EN and NEUTER,Unternehmen,Enterprise / Company,192,N
+193,das Gutachten,Word ends in EN and NEUTER,Gutachten,Expert opinion,193,N
+194,die Tür,,,,194,F
+195,die Milch ,,,,195,F
+196,die Kenntnis,,,,196,F
+197,die Schachtel,,,,197,F
+198,die Gefahr,,,,198,F
+199,die Nummer,word in er and feminine,,,199,F
+200,die Steuer,word in er and feminine,,,200,F
+201,die Mauer,word in er and feminine,,,201,F
+202,die Wimper,word in er and feminine,,,202,F
+203,die Neugier,word in er and feminine,,,203,F
+204,die Habgier,word in er and feminine,,,204,F
+205,die Hand,,,,205,F
+206,die Schuld,,,,206,F
+207,die Form,,,,207,F
+208,die Notiz,,,,208,F
+209,die Geisel,,,,209,F
+210,die Wand,,,,210,F
+211,die Gabel,,,,211,F
+212,die Kugel,,,,212,F
+213,die Wahl,,,,213,F
+214,die Regel,,,,214,F
+215,die Firma,,,,215,F
+216,die Stirn,,,,216,F
+217,die Uhr,,,,217,F
+218,"die Zahl,",,,,218,F
+219,die Notwehr,,,,219,F
+220,die Pirsch,,,,220,F
+221,die Geduld,,,,221,F
+222,die Rückkehr,,,,222,F
